@@ -44,12 +44,12 @@ onresize = () => {
                 </p>
                 <p>
                     The source code and documents of this project are available on 
-                    <a href="https://github.com/RockChinQ/free-one-api">
+                    <a href="https://github.com/RKIAI/free-one-api">
                         GitHub
                     </a>
                 </p>
                 <p>
-                    Built by <a href="https://rockchin.top">RockChinQ</a>
+                    Built by <a href="https://typegpt.net">NiansuhAI</a>
                 </p>
             </div>
         </div>
